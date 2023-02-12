@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Biscoito da Sorte</string>
+    <string name="label_phrase">Aguarde</string>
+    <string name="button_phrase">Tire a sorte!!</string>
+
+    <string name="answer_one">Teste</string>
+    <string name="answer_two">Teste2</string>
+    <string name="answer_three">Teste3</string>
+    <string name="answer_four">Teste4</string>
+    <string name="answer_five">Teste5</string>
+    <string name="answer_six">Teste6</string>
+    <string name="answer_seven">Teste7</string>
+
+</resources>
